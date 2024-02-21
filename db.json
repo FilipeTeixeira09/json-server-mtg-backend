@@ -1,33 +1,89 @@
 {
-  "projects": [
+  "cards": [
     {
-      "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "name": "abilio cebolass",
+      "mana": "9",
+      "elements": [
+        "white",
+        "black",
+        "red"
+      ],
+      "atk": "7",
+      "def": "8",
+      "type": "788",
+      "mainAb": "78y",
+      "combatAb": "hj",
+      "id": 2
     },
     {
-      "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
+      "name": "Shrek",
+      "mana": "8",
+      "elements": [
+        "green"
+      ],
+      "atk": "9999999",
+      "def": "1",
+      "type": "Ogre",
+      "mainAb": "Burp and punch",
+      "combatAb": "Swim in the mud",
+      "imageURL": "",
+      "id": 3
     },
     {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "name": "fhg",
+      "mana": "8",
+      "elements": [
+        "black"
+      ],
+      "atk": "99",
+      "def": "99",
+      "type": "hjh",
+      "mainAb": "hjh",
+      "combatAb": "hjh",
+      "imageURL": "",
+      "id": 4
     },
     {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "name": "Shrek",
+      "mana": "2",
+      "elements": [
+        "green"
+      ],
+      "atk": "77",
+      "def": "88",
+      "type": "Ogre",
+      "mainAb": "scream",
+      "combatAb": "punch",
+      "imageURL": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-He9aLu2QBx4eoO6Tq3r4mRNu/user-DV5qV7Mnk5RCimRXKqbElps6/img-7qMOrkcrFDeFkVR8myb8SAAb.png?st=2024-02-21T14%3A04%3A01Z&se=2024-02-21T16%3A04%3A01Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-02-21T15%3A00%3A59Z&ske=2024-02-22T15%3A00%3A59Z&sks=b&skv=2021-08-06&sig=vxy7%2BR4q7gcZ4JarEMgS05t6i8QV3nK5CJgkAlDTZxA%3D",
+      "id": 6
+    },
+    {
+      "name": "John Cena",
+      "mana": "999999",
+      "elements": [
+        "colorless"
+      ],
+      "atk": "999999",
+      "def": "9999999",
+      "type": "Invisible",
+      "mainAb": "Invisibility",
+      "combatAb": "UCantSeeMe",
+      "imageURL": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-He9aLu2QBx4eoO6Tq3r4mRNu/user-DV5qV7Mnk5RCimRXKqbElps6/img-i6ovdLS1jXH3X6CrNEH0LvL2.png?st=2024-02-21T14%3A35%3A23Z&se=2024-02-21T16%3A35%3A23Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-02-21T11%3A56%3A33Z&ske=2024-02-22T11%3A56%3A33Z&sks=b&skv=2021-08-06&sig=x6QQ/9dnqRWoRq63ia592kdkBTy3FGea9BxJXTxGmh0%3D",
+      "id": 7
+    },
+    {
+      "name": "Bob Marley",
+      "mana": "1",
+      "elements": [
+        "blue"
+      ],
+      "atk": "1",
+      "def": "1",
+      "type": "Invis",
+      "mainAb": "In",
+      "combatAb": "UCantSeeMe",
+      "imageURL": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-He9aLu2QBx4eoO6Tq3r4mRNu/user-DV5qV7Mnk5RCimRXKqbElps6/img-zluU8oHuWp1bYtUkZ30nKuoR.png?st=2024-02-21T14%3A41%3A36Z&se=2024-02-21T16%3A41%3A36Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-02-21T13%3A21%3A08Z&ske=2024-02-22T13%3A21%3A08Z&sks=b&skv=2021-08-06&sig=%2Bml6z4F9XhTYHyYGlbpn03yAFkFEefO1FKuMCDva5tI%3D",
+      "id": 8
     }
   ]
 }
